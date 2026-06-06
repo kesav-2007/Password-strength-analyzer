@@ -1,2 +1,21 @@
-# Password-strength-analyzer
-Password Strength Analyzer is a cybersecurity project that evaluates password strength based on length, complexity, and character diversity. It provides real-time feedback and generates strong password suggestions to improve account security.
+# Password Strength Analyzer
+
+## Overview
+This project evaluates the strength of passwords entered by users and provides suggestions for stronger passwords.
+
+## Features
+- Password length validation
+- Complexity analysis
+- Strong password generation
+- Password strength rating
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Future Enhancements
+- Password history check
+- Database integration
+- Password breach detection
+- SHA-256 hashing
